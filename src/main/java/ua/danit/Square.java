@@ -15,7 +15,7 @@ public class Square {
     this.size = size;
   }
   public String print()
-  { return "<square></square>";}
+  { return "<square><x>" +x+ "</x><y>" + y + "</y><size>" + size + "</size>></square>";}
 }
 
 
