@@ -2,7 +2,8 @@ import java.util.*;
 
 public class Shape {
 
-  public String print()
-  { return "Hello";}
+  public String print() {
+    return "Hello";
+  }
 }
 
